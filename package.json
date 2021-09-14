@@ -4,6 +4,7 @@
   "description": "proyecto misiontic",
   "main": "main.js",
   "scripts": {
+    "dev": "lite-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/juanxgar/Proyecto-Ciclo-3-copia/issues"
   },
-  "homepage": "https://github.com/juanxgar/Proyecto-Ciclo-3-copia#readme"
+  "homepage": "https://github.com/juanxgar/Proyecto-Ciclo-3-copia#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
 }
