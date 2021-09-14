@@ -1,0 +1,19 @@
+{
+  "name": "proyecto-ciclo-3-copia",
+  "version": "1.0.0",
+  "description": "proyecto misiontic",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanxgar/Proyecto-Ciclo-3-copia.git"
+  },
+  "author": "Juan}",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanxgar/Proyecto-Ciclo-3-copia/issues"
+  },
+  "homepage": "https://github.com/juanxgar/Proyecto-Ciclo-3-copia#readme"
+}
